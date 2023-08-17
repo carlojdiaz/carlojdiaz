@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carlojdiaz
 - 👀 I’m interested in coding, computers, and gaming
-- 🌱 I’m currently learning computer science with a focus on software and web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a computer science honor graduate of Old Dominion University
 - 📫 How to reach me: carlodiaz139@gmail.com
 
 <!---
